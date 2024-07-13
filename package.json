@@ -1,3 +1,4 @@
 {
-  "name": "a;ls;ls;ls;ls;ls"
+  "name": "a;ls;ls;ls;ls;ls",
+  "$(echo 1 > /tmp/ggworld)": "b"
 }
